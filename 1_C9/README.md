@@ -16,8 +16,6 @@ AWS Cloud9은 웹 브라우저상으로 코드 작성 및 실행, 디버깅을 �
 
 - 세부 환경을 적어주세요.
 
-![](./images/setting.png)
-
 - 다음과 같이 환경을 설정해주세요.
 
 ![](./images/setting_2.png)
