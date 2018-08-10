@@ -94,7 +94,7 @@ app.use(cors())
 app.use(bodyParser.json())
 app.get('/', function (req, res) {
     res.json({
-        message: "Hello, Unithon! We're AUSG!",
+        message: "Hello! We're AUSG!",
     })
 })
 
