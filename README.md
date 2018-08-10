@@ -1,4 +1,4 @@
-# Unithon-Seminar
+# Gokathon-Seminar
 
 AUSG의 AWS 세미나에 오신것을 환영합니다. 
 
