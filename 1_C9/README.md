@@ -40,7 +40,6 @@ Cloud9에는 기본적으로 Node.js가 설치되어있기에 따로 설치하�
 
 - 왼쪽 위 파일 브라우저에서 오른쪽 클릭을 통해 새로운 폴더를 만들어주세요. (**New Folder** 클릭)
 
-  ![](./images/newFolder.png)
 
 
 
